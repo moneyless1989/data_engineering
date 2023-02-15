@@ -1,3 +1,5 @@
 practices/
 lectures/.venv
 .vscode
+.venv
+.gitignore
