@@ -1,4 +1,8 @@
-practices/
+practices/.venv
+practices/data
+practices/Problem_solve
+practices/*.py
+practices/*.ipynb
 lectures/.venv
 .vscode
 .venv
