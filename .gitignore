@@ -7,3 +7,4 @@ lectures/.venv
 .vscode
 .venv
 .gitignore
+*.dot
