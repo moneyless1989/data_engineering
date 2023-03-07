@@ -8,3 +8,4 @@ lectures/.venv
 .venv
 .gitignore
 *.dot
+Deep Learning/
